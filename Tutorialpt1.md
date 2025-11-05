@@ -3,7 +3,7 @@ Passo 1: Fazer download do Flutter
 Acesse o site oficial do Flutter:
 🔗 https://flutter.dev/docs/get-started/install/windows
 
-![passo1](./imagem1.png.png)
+![passo1](./imagens/imagem1.png.png)
 
 Baixe o arquivo .zip da versão estável do Flutter:
 Exemplo: `flutter_windows_1.22.0-stable.zip`
@@ -23,7 +23,7 @@ O resultado será algo como:
 
 C:\src\flutter
 
-![passo2](./imagem2.png)
+![passo2](./imagens/imagem2.png)
 
 Agora seguindo os passos da documentação precisamos configurar a variavel de ambiente PATH
 
