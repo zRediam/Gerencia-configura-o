@@ -26,3 +26,15 @@ C:\src\flutter
 ![passo2](./Imagens/imagem2.png)
 
 Agora seguindo os passos da documentação precisamos configurar a variavel de ambiente PATH
+
+Para isso vá a barra de pesquisa do windows e digite “env” e selecione a opção Editar as variáveis de ambiente do sistema
+
+Conforme a imagem a seguir.
+
+![passo3](./Imagens/imagem3.webp)
+
+Edite a variável Path adicionando o diretório bin do flutter , se colocou em C:\src vai ficar C:\src\flutter\bin
+
+Conforme a imagem a seguir.
+
+![passo4](./Imagens/imagem4.webp)
